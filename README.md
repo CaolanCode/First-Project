@@ -1,13 +1,7 @@
-# First-Project
+# personalProject.html
 
-This is my first project to learn how GitHub operates
+This is a website to display my skills as a developer.
 
-## Subheader
+Please do not alter this project as I intend on writing all
+of the code to provide proof of work, thank you.
 
-some text
-
-more text
-
-## Local Development
-
-even more text
