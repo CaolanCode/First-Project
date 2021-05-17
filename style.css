@@ -1,0 +1,24 @@
+h1{
+    color:mediumvioletred;
+    font-weight:bold;
+    font-size:80px;
+    text-align:center;
+}
+body {
+    background-color:cyan;
+}
+p{
+    font-weight:lighter;
+    font-size:20px;
+    text-align:center;
+}
+il {
+    margin:10px;
+    display:inline-block;
+    font-size:20px;
+    padding:20px;
+}
+.contact {
+    position:absolute;
+    left:40%;
+}
