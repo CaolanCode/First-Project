@@ -1,10 +1,20 @@
 body {
     background-color:floralwhite;
 }
+.character {
+    width: 500px;
+    text-align: center;
+}
 p{
     font-weight:lighter;
     font-size:20px;
     text-align:center;
+}
+.description {
+    left: 500px;
+    height: 100px;
+    border: 3px;
+    width: 500px;
 }
 il {
     margin:10px;
@@ -16,16 +26,4 @@ il {
     position:absolute;
     left:40%;
 }
-.description {
-    background-color:darkorange;
-    left: 50px;
-    height: 100px;
-    border: 3px;
-    width: 500px;
-}
-.character {
-    left: 50px;
-    border: 3px;
-    width: 500px;
-    text-align: center;
-}
+
