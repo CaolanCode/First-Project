@@ -26,4 +26,9 @@ il {
     position:absolute;
     left:40%;
 }
+.deskImage{
+    height: 200px;
+    width: 400px;
+    float: right;
+}
 
