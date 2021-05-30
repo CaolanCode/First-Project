@@ -24,11 +24,12 @@ il {
 }
 .contact {
     position:absolute;
-    left:40%;
+    left:20%;
 }
 .deskImage{
-    height: 200px;
+    height: 300px;
     width: 400px;
     float: right;
+    padding-right: 3px;
 }
 
