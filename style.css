@@ -3,18 +3,16 @@ body {
 }
 .character {
     width: 500px;
-    text-align: center;
+    text-align:center;
 }
 p{
     font-weight:lighter;
     font-size:20px;
-    text-align:center;
 }
 .description {
-    left: 500px;
     height: 100px;
-    border: 3px;
     width: 500px;
+    text-align:center;
 }
 il {
     margin:10px;
