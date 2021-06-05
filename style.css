@@ -10,9 +10,10 @@ p{
     font-size:20px;
 }
 .description {
-    height: 100px;
-    width: 500px;
     text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
 }
 il {
     margin:10px;
