@@ -3,6 +3,7 @@ body {
     background-color:floralwhite;
 }
 .character {
+    margin: 100px;
     text-align:center;
 }
 p{
