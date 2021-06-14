@@ -18,13 +18,3 @@ body {
     margin-right:auto;
     width:500px;
 }
-il {
-    margin:10px;
-    display:inline-block;
-    font-size:20px;
-    padding:20px;
-}
-.contact {
-    position:absolute;
-    left:40%;
-}
