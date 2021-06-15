@@ -63,15 +63,3 @@ body {
     color:#fff;
     font-size:4rem;
 }
-.about{
-    font-weight:lighter;
-    font-size:20px;
-    border: 5px solid black;
-    padding:5px;
-}
-.description {
-    text-align:center;
-    margin-left:auto;
-    margin-right:auto;
-    width:500px;
-}
