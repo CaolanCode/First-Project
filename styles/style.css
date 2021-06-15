@@ -45,8 +45,23 @@ body {
     background-color:#3693ff;
 }
 .character {
-    margin: 100px;
+    background:url(../images/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg) no-repeat center center/cover;
+    height:91.7vh;
+}
+.character-content{
+    display:flex;
+    flex-direction: column;
     text-align:center;
+    align-items:center;
+    justify-content:center;
+    position:absolute;
+    top: 81px;
+    left:0;
+    bottom: 0;
+    right:0;
+    background:rgb(0,0,0,0.6);
+    color:#fff;
+    font-size:4rem;
 }
 .about{
     font-weight:lighter;
