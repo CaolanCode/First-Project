@@ -65,9 +65,10 @@ body {
 }
 #about{
     padding:5rem 0;
+    text-align:center;
+    display:flex;
 }
 .about-content h2{
-    text-align:center;
     font-size:3rem;
     margin-bottom:3rem;
 }
