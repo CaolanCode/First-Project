@@ -66,22 +66,22 @@ body {
 #about{
     padding:5rem 1rem;
 }
-.about-content .about-header{
+#about .about-content{
+    display:flex;
+    text-align: center;
+}
+#about .about-header{
     font-size:3rem;
     margin-bottom:3rem;
     text-align: center;
 }
-#about .about-content .about-text{
-    margin-bottom: 1rem;
-    text-align: left;
-    display: block;
-    float:left;
+#about .about-text{
+    text-align: center;
 }
 #about .about-skills{
-    float:right;
-    margin-bottom: 1rem;
+    display:block;
 }
-#about .about-content,
+#about .about-text,
 #about .about-skills{
     flex:1;
 }
