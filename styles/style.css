@@ -85,3 +85,11 @@ body {
 #about .about-skills{
     flex:1;
 }
+#projects{
+    padding:5rem 1rem;
+}
+#projects .project-header{
+    font-size:3rem;
+    margin-bottom:3rem;
+    text-align: center;
+}
